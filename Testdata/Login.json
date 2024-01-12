@@ -1,0 +1,32 @@
+{
+	"TC-Login-1": {
+		"url": "https://test-pulsev3-uae.tatsh.cloud/auth/login",
+        "username": "test_user3",
+        "password": "Alpha@111"
+	},
+    "TC-Login-2": {
+		"url": "https://test-pulsev3-uae.tatsh.cloud/auth/login",
+        "username": "test_user3",
+        "password": "Alpha@111",
+        "searchvalue": "A3C3FCD3F35AB8B4"
+	},
+    "TC-Login-3": {
+        "url": "https://test-pulsev3-uae.tatsh.cloud/auth/login",
+        "username": "test_user3",
+        "password": "Alpha@111",
+        "searchvalue": "A3C3FCD3F35AB8B4"
+    },
+    "TC-Login-4": {
+		"url": "https://test-pulsev3-uae.tatsh.cloud/auth/login",
+        "username": "test_user3",
+        "password": "Alpha@111",
+        "fromdate": "01-01-2024",
+        "todate": "10-01-2024"
+	},
+    "TC-Login-5": {
+        "url": "https://test-pulsev3-uae.tatsh.cloud/auth/login",
+        "username": "test_user3",
+        "password": "Alpha@111",
+        "cardnumber": "A3C3FCD3F35AB8B4"
+    }
+}

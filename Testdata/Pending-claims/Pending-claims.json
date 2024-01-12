@@ -1,0 +1,8 @@
+{
+"TC-Login-2": {
+    "url": "https://test-pulsev3-uae.tatsh.cloud/auth/login",
+    "username": "test_user3",
+    "password": "Alpha@111",
+    "searchvalue": "A3C3FCD3F35AB8B4"
+}
+}
